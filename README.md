@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-  - [Password Checker Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Password Checker Project](https://github.com/LaDariusT/Check_Password)
 
   - [Hotel Management System Project](https://github.com/joshmadakor1/Algorithms-Practice)
 
