@@ -4,7 +4,7 @@
 
   - [Password Checker Project](https://github.com/LaDariusT/Check_Password)
 
-  - [Hotel Management System Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hotel Management System Project](https://github.com/LaDariusT/Hotel_Management_System)
 
 <h2> 🤳 Connect with me:</h2>
 
